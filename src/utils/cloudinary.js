@@ -25,6 +25,8 @@ const uploadOnCloudinary = async () => {
     }
 }
 
+export {uploadOnCloudinary}
+
 
 
 // Code Copy form Cloudinary
